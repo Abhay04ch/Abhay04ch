@@ -3,7 +3,7 @@
 - 👀 I’m an Web Development Enthusiast.
 - 🌱 I’m currently building my skills in ML, Web Dev, Python, Cpp, DSA.
 - 💞️ I’m looking to collaborate with people with whom I can learn new skills and challenge my intelligence😎.
-- 📫 How to reach me --> You can contact me at <chauhan04abhay@gmail.com>.
+- 📫 How to reach me --> You can contact me at <abhay.chauhan.iitbhu@gmail.com>.
 
 <!---
 Abhay04ch/Abhay04ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
